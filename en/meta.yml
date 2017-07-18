@@ -1,17 +1,15 @@
-title: generic-electronics-tune-pir
+title: Tune a PIR
 hero_image: images/banner.png
-description: generic-electronics-tune-pir description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+description: How to tune a PIR
+original_url: 
+theme: turquoise
+duration: 1
 listed: false
-ingredient: false
+ingredient: true
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "space, games, photography, robots, music/sound, physical computing, jokes/pranks"
-technologies: "electronics, physical computing, html/css, scratch, python"
+curriculum:
+interests: 
+technologies: "electronics"
 site_areas:
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Tune a PIR
