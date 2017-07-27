@@ -1,6 +1,6 @@
-When you first connect your PIR, you need to leave it for about a minute, so that it can settle.
+When you first connect your PIR, you need to leave it for about a minute before trying to detect motion.
 
-To tune a PIR, you need to understand three basic adjustable areas of the PIR.
+To tune a PIR, you need to understand three ways in which the sensor can be adjusted.
 
 ![schematic](images/schematic.png)
 
