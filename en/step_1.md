@@ -1,6 +1,6 @@
 When you first connect your PIR sensor, you need to wait for about a minute before trying to detect motion.
 
-To tune a PIR sensor, there are three ways in which you can adjust it.
+There are three ways in which you can tune and adjust a PIR sensor.
 
 ![schematic](images/schematic.png)
 
