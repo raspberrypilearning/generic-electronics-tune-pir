@@ -1,6 +1,6 @@
-title: Tune a PIR
+title: Tune a PIR sensor
 hero_image: images/banner.png
-description: How to tune a PIR
+description: How to tune a PIR sensor
 original_url: 
 theme: turquoise
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "electronics"
 site_areas:
 steps:
-  - title: Tune a PIR
+  - title: Tune a PIR sensor
