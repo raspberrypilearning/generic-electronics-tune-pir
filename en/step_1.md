@@ -5,7 +5,7 @@ To tune a PIR sensor, there are three ways in which you can adjust it.
 ![schematic](images/schematic.png)
 
 ### Sensitivity
-- You can adjust the PIR sensor's sensitivity so that it picks up motion at different distances. Turn the potentiometer fully clockwise, and the sensor will pick up motion up to about 3 metres away. Turn the potentiometer fully anti-clockwise, and the sensor will pick up motion up to about 7 metres away.
+- You can adjust the PIR sensor's sensitivity so that it picks up motion at different distances. Turn the potentiometer fully clockwise, and the sensor will detect motion up that's to about 3 metres away. Turn the potentiometer fully anti-clockwise, and the sensor will detect motion that's up to about 7 metres away.
 
 ### Delay time
 - The delay time is the amount of time that the PIR sensor send signals to the Pi for once it is triggered. This is adjustable from about 3 seconds up to about 300 seconds. It will probably best if you turn this potentiometer fully anti-clockwise to keep the delay time as short as possible.
